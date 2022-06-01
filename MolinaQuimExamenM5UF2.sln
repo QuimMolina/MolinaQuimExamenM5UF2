@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MolinaQuimExamenM5UF2", "MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2.csproj", "{60DB1724-10AB-4236-9568-018EDB3F457B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasUnitarias", "PruebasUnitarias\PruebasUnitarias.csproj", "{4F48D723-00E2-4B4F-B633-5D50469E955B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DB1724-10AB-4236-9568-018EDB3F457B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DB1724-10AB-4236-9568-018EDB3F457B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DB1724-10AB-4236-9568-018EDB3F457B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DB1724-10AB-4236-9568-018EDB3F457B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F48D723-00E2-4B4F-B633-5D50469E955B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F48D723-00E2-4B4F-B633-5D50469E955B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F48D723-00E2-4B4F-B633-5D50469E955B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F48D723-00E2-4B4F-B633-5D50469E955B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAF798A3-2CF3-4F90-98A6-BBD167751C2A}
+	EndGlobalSection
+EndGlobal

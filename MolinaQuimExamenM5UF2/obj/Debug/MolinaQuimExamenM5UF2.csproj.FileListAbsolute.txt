@@ -1,0 +1,6 @@
+C:\Users\kimyt\source\repos\MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2\bin\Debug\MolinaQuimExamenM5UF2.dll
+C:\Users\kimyt\source\repos\MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2\bin\Debug\MolinaQuimExamenM5UF2.pdb
+C:\Users\kimyt\source\repos\MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2\obj\Debug\MolinaQuimExamenM5UF2.csproj.AssemblyReference.cache
+C:\Users\kimyt\source\repos\MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2\obj\Debug\MolinaQuimExamenM5UF2.csproj.CoreCompileInputs.cache
+C:\Users\kimyt\source\repos\MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2\obj\Debug\MolinaQuimExamenM5UF2.dll
+C:\Users\kimyt\source\repos\MolinaQuimExamenM5UF2\MolinaQuimExamenM5UF2\obj\Debug\MolinaQuimExamenM5UF2.pdb
